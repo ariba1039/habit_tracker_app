@@ -1,4 +1,4 @@
-# habit_tracker_app
+# Habit Tracker App
 
 I will dive into the basic concepts of Provider state management and show you how to build a fully functional Habit Tracker App. You'll learn how to implement state management efficiently to track habits, update states, and manage data dynamically in your Flutter apps.
 ##The fundamentals of Provider in Flutter.
